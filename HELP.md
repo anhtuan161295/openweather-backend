@@ -19,17 +19,3 @@ These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 
-### How to use
-####
-1.Go to application.properties and update 
-- mysql server credentials, url, port
-- open weather api key
-
-2.Create the database and table from script in `sql` folder  
-3.Start up the server  
-4.Import the script in `postman` folder to Postman app  
-5.Run the API to test
-
-### Scaling the app  
-check folder `scaling` to get the idea.  
-
